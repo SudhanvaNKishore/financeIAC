@@ -31,4 +31,3 @@
   - <!-- PHP -->
   - <!-- WordPress -->
   - <!-- Vagrant -->
-
